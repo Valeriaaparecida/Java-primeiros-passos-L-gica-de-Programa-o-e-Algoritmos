@@ -13,6 +13,7 @@ public class Main {
         int PROD = A * B;
 
         System.out.println("PROD = " + PROD);
+        sc.close();
 
     }
 }

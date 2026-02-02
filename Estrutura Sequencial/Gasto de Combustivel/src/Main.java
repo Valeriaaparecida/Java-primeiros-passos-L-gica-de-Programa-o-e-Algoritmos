@@ -13,5 +13,6 @@ public class Main {
 
         double litros = ((double)(tempoDeViajem * velocidadeMedia))/12.0;
         System.out.printf("%.3f%n", litros);
+        sc.close();
     }
 }

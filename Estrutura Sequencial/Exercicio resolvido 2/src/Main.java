@@ -32,5 +32,6 @@ DIAGONAL = 6.4031
         System.out.printf("AREA = %.4f%n", AREA);
         System.out.printf("PERIMETRO = %.4f%n", PERIMETRO);
         System.out.printf("DIAGONAL= %.4f%n", DIAGONAL);
+        sc.close();
     }
 }
