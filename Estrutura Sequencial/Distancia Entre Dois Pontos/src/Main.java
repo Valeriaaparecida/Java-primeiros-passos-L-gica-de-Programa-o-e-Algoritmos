@@ -17,5 +17,6 @@ public class Main {
         double Distancia = Math.sqrt ((Math.pow((x2-x1),2.0)  + Math.pow((y2-y1),2.0)));
 
         System.out.printf("%.4f%n", Distancia);
+        sc.close();
     }
 }
